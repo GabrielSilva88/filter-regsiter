@@ -7,5 +7,5 @@
 #### recording-expenses
 #### listing-registers
 #### deleting-register
-# customizing-drawer-profile-page
-# filter-regsiter
+#### customizing-drawer-profile-page
+#### filter-regsiter
